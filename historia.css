@@ -1,0 +1,100 @@
+@charset "UTF-8";
+
+body{
+  font-family: Verdana, Arial, sans-serif, Calibri, cursive;
+  margin: auto;
+  font-size: 100%;
+}
+.page{
+  margin: 0;
+}
+
+.viewport{
+  display: flex;
+  width: auto;
+  height: 100vh;
+  background: white;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+.ad{
+  width: 200px;
+  height: auto;
+  margin-left: 3%;
+  position: fixed;
+  top: 20%;
+}
+
+.main{
+  width: 850px;
+  height: auto;
+  /* background: #dcdcdc; */
+  margin: 0 0 0 300px;
+}
+
+.headline{
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-size: 300%;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+.upload1{
+  display: flex;
+  align-items: center;
+  background-color: #f6f6f6;
+  margin: 20px;
+  width: 850px;
+}
+
+h1{
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-size: 30px;
+}
+
+h2
+{
+  font-style: italic;
+}
+.image1{
+  margin: 20px;
+  height: 100%;
+  width: 20%;
+  padding-top: 0px;
+}
+
+.info1{
+  width: 75%;
+  height: auto;
+  margin-bottom: auto;
+  font-size: 70%;
+
+}
+
+.temp{
+  width: 250px;
+  height: 800px;
+  margin: 0 0 auto 40px;
+}
+
+.user{
+  height: 100px;
+  width: 250px;
+  background: white;
+  margin-left: 20px;
+}
+
+.menu{
+  height: 300px;
+  width: 250px;
+  top: 20%;
+  padding-bottom: 50px;
+  margin: auto;
+}
+
+.icon{
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px;
+}
